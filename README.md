@@ -18,4 +18,4 @@ Dogs vs. Cats Dataset Preparation
 Develop a Baseline CNN Model
 Develop Model Improvements
 Explore Transfer Learning
-How to Finalize the Model and Make Predictions
+How to Finalize the Model and Make Predictions.
